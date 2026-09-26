@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Horizon Bank",
+    "slug": "horizon-bank-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.farufensil.horizonbank"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9ab4922e-4402-46b4-85c4-7b84de71c576"
+      }
+    }
+  }
+}
