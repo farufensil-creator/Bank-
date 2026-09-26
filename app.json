@@ -3,6 +3,7 @@
     "name": "Horizon Bank",
     "slug": "horizon-bank-app",
     "version": "1.0.0",
+    "owner": "farufensils-team",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "android": {
